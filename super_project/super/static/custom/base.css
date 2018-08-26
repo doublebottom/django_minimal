@@ -1,0 +1,26 @@
+/*
+CSS --> base.html
+*/
+
+
+/* Globals */
+body {
+  margin: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#logo {
+  text-align: center;
+}
+
+#logo img {
+  width: 470px;
+}
+
+.sem_ui_test {
+    text-align: center;
+}
+
